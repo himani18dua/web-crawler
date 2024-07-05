@@ -1,0 +1,84 @@
+Source_Page,Link_Text,Broken_Page_Link,HTTP_Code,External
+https://www.scrapebay.com/broken/broken_disabled,Link 20,https://www.sdf.com/page20,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 4,https://www.sdf.com/page4,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 3,https://www.sdf.com/page3,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 14,https://www.sdf.com/page14,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 13,https://www.example.com/page13,404,True
+Unknown,,https://www.exfgdfsdfgdample.com/page12,DNSLookupError or other unhandled,True
+Unknown,,https://www.exadfgmple.com/page18,DNSLookupError or other unhandled,True
+Unknown,,https://www.fgdfgfsd.com/page15,DNSLookupError or other unhandled,True
+Unknown,,https://www.exasdfgfgdmple.com/page8,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_disabled,Link 7,https://www.example.com/page7,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 10,https://www.example.com/page10,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 9,https://www.example.com/page9,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 1,https://www.example.com/page1,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 16,https://www.example.com/page16,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 19,https://www.example.com/page19,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 11,https://www.example.com/page11,500,True
+https://www.scrapebay.com/broken/broken_disabled,Link 17,https://www.example.com/page17,500,True
+Unknown,,https://www.sdfg.com/page2,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page5,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page6,DNSLookupError or other unhandled,True
+Source_Page,Link_Text,Broken_Page_Link,HTTP_Code,External
+https://www.scrapebay.com/broken/broken_disabled,Link 4,https://www.sdf.com/page4,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 3,https://www.sdf.com/page3,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 14,https://www.sdf.com/page14,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 7,https://www.example.com/page7,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 9,https://www.example.com/page9,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 1,https://www.example.com/page1,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 16,https://www.example.com/page16,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 13,https://www.example.com/page13,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 10,https://www.example.com/page10,404,True
+Unknown,,https://www.exfgdfsdfgdample.com/page12,DNSLookupError or other unhandled,True
+Unknown,,https://www.fgdfgfsd.com/page15,DNSLookupError or other unhandled,True
+Unknown,,https://www.exasdfgfgdmple.com/page8,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_disabled,Link 19,https://www.example.com/page19,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 20,https://www.sdf.com/page20,404,True
+Unknown,,https://www.exadfgmple.com/page18,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_disabled,Link 11,https://www.example.com/page11,500,True
+https://www.scrapebay.com/broken/broken_disabled,Link 17,https://www.example.com/page17,500,True
+Unknown,,https://www.sdfg.com/page2,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page5,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page6,DNSLookupError or other unhandled,True
+Source_Page,Link_Text,Broken_Page_Link,HTTP_Code,External
+https://www.scrapebay.com/broken/broken_404,Link 4,https://www.sdf.com/page4,404,True
+https://www.scrapebay.com/broken/broken_404,Link 3,https://www.sdf.com/page3,404,True
+https://www.scrapebay.com/broken/broken_404,Link 20,https://www.sdf.com/page20,404,True
+Unknown,,https://www.exfgdfsdfgdample.com/page12,DNSLookupError or other unhandled,True
+Unknown,,https://www.exadfgmple.com/page18,DNSLookupError or other unhandled,True
+Unknown,,https://www.fgdfgfsd.com/page15,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_404,Link 14,https://www.sdf.com/page14,404,True
+Unknown,,https://www.exasdfgfgdmple.com/page8,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_404,Link 7,https://www.example.com/page7,404,True
+https://www.scrapebay.com/broken/broken_404,Link 1,https://www.example.com/page1,404,True
+https://www.scrapebay.com/broken/broken_404,Link 16,https://www.example.com/page16,404,True
+https://www.scrapebay.com/broken/broken_404,Link 9,https://www.example.com/page9,404,True
+https://www.scrapebay.com/broken/broken_404,Link 19,https://www.example.com/page19,404,True
+https://www.scrapebay.com/broken/broken_404,Link 13,https://www.example.com/page13,404,True
+https://www.scrapebay.com/broken/broken_404,Link 10,https://www.example.com/page10,404,True
+https://www.scrapebay.com/broken/broken_404,Link 17,https://www.example.com/page17,500,True
+https://www.scrapebay.com/broken/broken_404,Link 11,https://www.example.com/page11,500,True
+Unknown,,https://www.sdfg.com/page2,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page5,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page6,DNSLookupError or other unhandled,True
+Source_Page,Link_Text,Broken_Page_Link,HTTP_Code,External
+https://www.scrapebay.com/broken/broken_disabled,Link 3,https://www.sdf.com/page3,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 4,https://www.sdf.com/page4,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 14,https://www.sdf.com/page14,404,True
+Unknown,,https://www.exfgdfsdfgdample.com/page12,DNSLookupError or other unhandled,True
+Unknown,,https://www.exadfgmple.com/page18,DNSLookupError or other unhandled,True
+Unknown,,https://www.fgdfgfsd.com/page15,DNSLookupError or other unhandled,True
+Unknown,,https://www.exasdfgfgdmple.com/page8,DNSLookupError or other unhandled,True
+https://www.scrapebay.com/broken/broken_disabled,Link 20,https://www.sdf.com/page20,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 7,https://www.example.com/page7,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 1,https://www.example.com/page1,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 9,https://www.example.com/page9,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 10,https://www.example.com/page10,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 19,https://www.example.com/page19,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 16,https://www.example.com/page16,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 13,https://www.example.com/page13,404,True
+https://www.scrapebay.com/broken/broken_disabled,Link 11,https://www.example.com/page11,500,True
+https://www.scrapebay.com/broken/broken_disabled,Link 17,https://www.example.com/page17,500,True
+Unknown,,https://www.sdfg.com/page2,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page6,DNSLookupError or other unhandled,True
+Unknown,,https://www.dfg.com/page5,DNSLookupError or other unhandled,True
